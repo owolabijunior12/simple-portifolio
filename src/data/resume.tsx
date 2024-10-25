@@ -143,7 +143,7 @@ export const DATA = {
         "",
     },
     {
-      title: "Rock Paper Scissor GAme",
+      title: "Rock Paper Scissor Game",
       href: "https://iboytech-game-rps.vercel.app/",
       dates: "June 2023 - Sept 2023",
       active: true,
@@ -205,7 +205,7 @@ export const DATA = {
       video: "",
     },
     {
-      title: "E-commerce",
+      title: "E-Commerce",
       href: "https://iboytech-e-commerce.vercel.app/",
       dates: "April 2023 - Jun 2023",
       active: true,
