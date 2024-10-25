@@ -207,7 +207,7 @@ export const DATA = {
     {
       title: "E-commerce",
       href: "https://iboytech-e-commerce.vercel.app/",
-      dates: "April 2023 - March 2024",
+      dates: "April 2023 - Jun 2023",
       active: true,
       description:
         "",
