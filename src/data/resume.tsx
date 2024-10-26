@@ -240,5 +240,89 @@ export const DATA = {
       video:
         "",
     },
+    {
+      title: "Admin Dashboard",
+      href: "https://admin-dashboard-wheat-iota.vercel.app/",
+      dates: "April 2023 - May 2023",
+      active: true,
+      description:
+        "",
+      technologies: [
+        "React.js",       
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://admin-dashboard-wheat-iota.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/owolabijunior12/Admin-Dashboard",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/Admin Dashboard.png",
+      video:
+        "",
+    },
+    {
+      title: "Stop Watch",
+      href: "https://stopwatch-bay-eight.vercel.app/",
+      dates: "Aug 2023 - Aug 2023",
+      active: true,
+      description:
+        "",
+      technologies: [
+        "Vue.js",       
+        "TailwindCSS",        
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://stopwatch-bay-eight.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/owolabijunior12/stopwatch",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/stopwatch.png",
+      video:
+        "",
+    },
+    {
+      title: "Dashboard",
+      href: "https://dashboard-azure-tau-40.vercel.app",
+      dates: "Dec 2023 - Dec 2023",
+      active: true,
+      description:
+        "",
+      technologies: [
+        "next.js",       
+        "TailwindCSS",
+        "Chakra-ui",
+        "Framer-motion",
+        "Typescript",        
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://dashboard-azure-tau-40.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/owolabijunior12/Dashboard-",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/dashboard.png",
+      video:
+        "",
+    },
   ],  
 } as const;
